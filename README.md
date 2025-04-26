@@ -16,9 +16,9 @@ Welcome to my personal portfolio! This project showcases my journey as a Compute
 - **Font Awesome** for engaging icons.
 
 ## Live Link
-View my portfolio here: (#)
+View my portfolio here:https://github.com/24039325/Portfolio-Assignment.git (#)
 
 ## How to Run the Project Locally
 1. Clone this repository to your machine:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://https://github.com/24039325/Portfolio-Assignment.git
